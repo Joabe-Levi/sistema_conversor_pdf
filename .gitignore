@@ -1,2 +1,6 @@
 /myvenv
 /venv
+/.idea
+sistema_conversor/venv
+*.xml
+*.iml
